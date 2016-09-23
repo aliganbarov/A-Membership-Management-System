@@ -1,0 +1,12 @@
+﻿  Student.cpp
+  Team.cpp
+c:\users\alipc\desktop\courses\20152\c++\hw2\hw2\hw2\team.cpp(93): warning C4101: 'fee': unreferenced local variable
+  Memberships.cpp
+c:\users\alipc\desktop\courses\20152\c++\hw2\hw2\hw2\memberships.cpp(123): warning C4101: 'totalFee': unreferenced local variable
+  Admin.cpp
+  Academic.cpp
+  Member.cpp
+  Main.cpp
+  Generating Code...
+  hw2.vcxproj -> C:\Users\AliPC\Desktop\Courses\20152\C++\HW2\hw2\Debug\hw2.exe
+  hw2.vcxproj -> C:\Users\AliPC\Desktop\Courses\20152\C++\HW2\hw2\Debug\hw2.pdb (Partial PDB)
